@@ -227,7 +227,7 @@
   width: 100%;
 }
 #comment{
-  margin-top: 10px;
+  margin-top: 20px;
   margin-left: 0px;
 }
 #ifo{
@@ -238,13 +238,14 @@
 #footer{
   background-color: rgb(30,37,41);
   width: 100vw;
-  height: 80%;
-  margin-top: 700px;
+  height: 150%;
+  margin-top: -50px;
   margin-left: -26px;
 }
 #gallery{
   color: white;
   margin-left: 0px;
+  
 }
 #a:hover{
   color: rgb(179,148,113);
@@ -258,6 +259,18 @@
 
 li{
   list-style-type: none;
+}
+#letter{
+  margin-top: 700px;
+  
+}
+#news{
+  margin-top: -700px;
+ 
+}
+#up{
+  margin-top: 700px;
+
 }
 #a{
   text-decoration: none;
