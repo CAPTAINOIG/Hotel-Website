@@ -437,3 +437,97 @@ li{
 #putttwo{
     height: 20vh;
 }
+#miit{
+    position: absolute;
+    top: 28%;
+    margin-left: 130px;
+}
+#hommie{
+    position: absolute;
+    top: 38%;
+    font-size: 18px;
+    margin-left: 130px;
+}
+#hom{
+    text-decoration: none;
+    color: white;
+}
+#vail{
+    background-color: burlywood;
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    border: 0px;
+    /* margin-left: 50px; */
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+#vail:hover{
+    border: 2px solid rgb(4,48,64);
+    background-color: white;
+    color: rgb(4,48,64);
+}
+#image3{
+  margin-top: 100px;
+  margin-left: 50px;
+}
+#car{
+  margin-top: 130px;
+}
+#color{
+    color: rgb(4,48,64);
+  }
+  #colo{
+    color: rgb(4,48,64);
+    font-size: 18px;
+  }
+  #foote{
+    
+      background-color: rgb(30,37,41);
+      width: 100vw;
+      height: 60vh;
+      margin-left: -125px;
+  
+  }
+  #aa:hover{
+      color: rgb(179,148,113);
+      transform: scale(0.9);
+      font-weight: bold;
+      
+  }
+  #footi{
+      margin-left: 100px;
+  }
+  #aa{
+      text-decoration: none;
+      color: white;
+      font-size: 15px;
+  }
+  #barr{
+      margin-left: 20px;
+      color: rgb(4,48,64);
+      text-decoration: none;
+  }
+  #galleryy{
+      color: white;
+      margin-left: 100px;
+  }
+  #shottwo{
+    color: rgb(179,148,113);
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  #gos{
+    color: rgb(4,48,64);
+    text-decoration: none;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: bolder;
+  }
+  #gos:hover{
+    color: rgb(179,148,113);
+  }
+  
+

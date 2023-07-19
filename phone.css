@@ -285,4 +285,78 @@ li{
   margin-top: -100px;
   color: rgb(179,148,113);
 }
+#image{
+  margin-top: 100px;
+  margin-left: 50px;
+  width: 100%;
+}
+#event{
+    width: 100%;
+}
+#image3{
+  margin-top: 100px;
+  margin-left: 0px;
+  width: 100%;
+}
+#car{
+  margin-top: -30px;
+  margin-left: -10px;
+}
+#foote{
+  background-color: rgb(30,37,41);
+  width: 100vw;
+  height: 100%;
+  margin-top: 50px;
+  margin-left: -10px;
+  color: white;
+}
+#upp{
+  margin-top: 700px;
+
+}
+#footi{
+  margin-left: 0px;
+}
+#aa{
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  margin-left: 0px;
+}
+#galleryy{
+  color: white;
+  margin-left: 0px;
+}
+#miit{
+  position: absolute;
+  top: 28%;
+  margin-left: 10px;
+  margin-top: -50px;
+}
+#hommie{
+  position: absolute;
+  top: 38%;
+  font-size: 18px;
+  margin-left: 20px;
+  margin-top: -50px;
+}
+#hom{
+  text-decoration: none;
+  color: white;
+  margin-top: -50px;
+ 
+}
+#footie{
+  margin-top: 0px;
+  padding: 20px;
+  width: 100%;
+  margin-left: 2px;
+}
+#line{
+  display: none;
+}
+#imagethree{
+  width: 100%;
+  margin-left: -10px;
+}
 }
