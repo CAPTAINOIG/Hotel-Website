@@ -529,5 +529,13 @@ li{
   #gos:hover{
     color: rgb(179,148,113);
   }
-  
+  #chec{
+    background-color: rgb(4,48,64);;
+  }
+  #disp{
+    margin-top: 200px;
+  }
+  #disp{
+    margin-top: -10px;
+  }
 
