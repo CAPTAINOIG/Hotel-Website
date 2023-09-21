@@ -62,6 +62,7 @@
 
     <script>
         let allDetails = JSON.parse(localStorage.getItem("hotelCheck"))
+        // console.log(add4);
         for (let index = 0; index < allDetails.length; index++) {
             console.log(allDetails);
             document.getElementById("disp").innerHTML = (`welcome Your amount is ${allDetails[index].amount}`)
@@ -74,7 +75,7 @@
               <h5 class="card-title">LASTNAME: ${allDetails[index].lastname}</h5>
               <h5 class="card-title">DATE CHECK-IN: ${allDetails[index].dateIn}</h5>
               <h5 class="card-title">DATE CHECKOUT:  ${allDetails[index].dateOut}</h5>
-              <h5 class="card-title">DATE: ${allDetails[index].transactionDetails[index].dateAdd}</h5>
+              <h5 class="card-title">DATE: ${allDetails[index].transactionDetails[index].date}</h5>
               <h5 class="card-title">TIME:    ${allDetails[index].transactionDetails[index].time}</h5>
               <h5 class="card-title">NUMBER OF ROOMS:  ${allDetails[index].rooms}</h5>
             <h5 class="card-title">TOTAL AMOUNT: ${allDetails[index].amount}</h5>
